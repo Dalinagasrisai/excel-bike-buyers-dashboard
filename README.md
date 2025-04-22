@@ -58,16 +58,8 @@ This project presents a complete data analysis and visualization workflow using 
 
 This Excel project demonstrates the full lifecycle of a data analysis workflow — from raw data to a professional, interactive dashboard — all within a single, well-structured workbook.
 
-Whether you're learning Excel analytics or showcasing your skills in a portfolio, this project provides a solid, end-to-end example of business data analysis.
 
 ---
 
-## 📷 Preview (Optional)
-_Add screenshots of your dashboard and pivot tables here if you'd like._
 
----
-
-## 📬 Feedback
-
-If you have any suggestions or feedback, feel free to open an issue or reach out!
 
