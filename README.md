@@ -15,7 +15,9 @@ This project presents a complete data analysis and visualization workflow using 
 
 ---
 ## 📁 Dataset used
-- <a href="
+- <a href="https://github.com/Dalinagasrisai/excel-bike-buyers-dashboard/blob/main/Bike_buyers(raw%20dataset).xlsx">Dataset</a>
+
+---
 
 ## 🧹 Data Cleaning & Preparation (Sheet: `Working Sheet`)
 
