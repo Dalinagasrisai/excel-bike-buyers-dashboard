@@ -47,7 +47,11 @@ This project presents a complete data analysis and visualization workflow using 
   - Clear visual layout to help stakeholders make data-driven decisions.
 
 ---
+## 📈 Dashboard Preview (Screenshot)
 
+![Dashboard- Preview](https://github.com/user-attachments/assets/aee77f30-a6f1-472c-a70b-ad198c2d88cf)
+
+---
 ## 🛠 Tools Used
 
 - Microsoft Excel
